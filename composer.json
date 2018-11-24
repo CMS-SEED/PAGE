@@ -3,7 +3,7 @@
     "description": "Page package for Cms_Framework_Seed",
     "keywords": ["cms_framework_seed", "page"],
     "license": "MIT",
-    "type": "package",
+    "type": "seed-package",
     "homepage": "https://github.com/Cms_Framework_Seed/Page",
     "authors": [
         {
